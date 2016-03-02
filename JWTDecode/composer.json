@@ -1,0 +1,13 @@
+{
+    "name": "vendor/j-w-t-decode",
+    "description": "Description of project JWTDecode.",
+    "authors": [
+        {
+            "name": "jena",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "v3.0.0"
+    }
+}
